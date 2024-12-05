@@ -3,3 +3,22 @@
 Test token
 
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJ0ZXN0IiwicGFzc3dvcmQiOiJ0ZXN0In0.3JSQd_KpKxdPSeoCPToSoxfbt6Zrm5hnrP-igGbLBEs
+
+
+{
+  "username": "Nathan Drake",
+  "password": "treasure"
+} Token
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ik5hdGhhbiBEcmFrZSIsImlkIjoxfQ.mbQtDwKuHr-I9L6zhUWxz3Dr7gcguu8uEmflnOG5nZc
+
+{
+  "username": "Agent 47",
+  "password": "hitman"
+} Token
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkFnZW50IDQ3IiwiaWQiOjJ9.YucqCn7oJ3cu85uWNDuHknKhD0C8-GLurp47amkuoII
+
+{
+  "username": "Miles Morales",
+  "password": "knight spider"
+} Token
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ik1pbGVzIE1vcmFsZXMifQ.iOqufkTJBCyKvMrsdfcLbRTj9FPLufKIxWcjo6whB1o
